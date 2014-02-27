@@ -1,4 +1,4 @@
-<?php
+<?php namespace Troydavisson;
 
 class phRETS {
 
